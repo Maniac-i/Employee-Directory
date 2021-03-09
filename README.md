@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Employee Directory
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Upon loading, a random list of employees is rendered. It allows you to sort the employees by age and filter the employees that live in the United States. 
+
+
+![](https://github.com/Maniac-i/Employee-Directory-2/blob/main/Screen%20Shot%202021-03-09%20at%206.21.41%20PM.png?raw=true)
 
 ## Available Scripts
 
@@ -68,3 +71,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Questions 
+
+**GitHub Username:** Maniac-i
+
+**GitHub URL:** github.com/Maniac-i
+
+For any additional questions you can contact me at *joe.maniaci1@gmail.com*.
